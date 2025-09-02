@@ -56,6 +56,7 @@
       </button>
     </div>
   </div>
+    
 <?php
   include 'nav/footer.php';
 ?>
