@@ -19,6 +19,31 @@
     <!-- Bootstrap core CSS -->
 <link href="/docs/5.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
+
+<!--
+############################################## 
+################## SERVICES ##################
+############################################## 
+-->
+<link href="../assets/dist/css/services.css" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+<!--
+############################################## 
+################## CONTACT ###################
+############################################## 
+-->
+<link href="../assets/dist/css/contact.css" rel="stylesheet">
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" rel="stylesheet">
+
+<!--
+############################################## 
+################## ABOUT ME ##################
+############################################## 
+-->
+<link href="../assets/dist/css/about_me.css" rel="stylesheet">
+
 <style>
 
   .carousel{
